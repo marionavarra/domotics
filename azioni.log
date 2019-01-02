@@ -1,0 +1,5001 @@
+_________________________31/12/2018 10:51:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 10:51:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 10:51:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 10:51:05- Stato Tunnel OK (chiuso)
+31/12/2018 10:51:05- Stato Teamviewer OK (spento)
+31/12/2018 10:51:05-Avvio Motion
+_________________________31/12/2018 10:55:19_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 10:55:19- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 10:55:24- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 10:55:25- Stato Tunnel OK (chiuso)
+31/12/2018 10:55:25- Stato Teamviewer OK (spento)
+31/12/2018 10:55:25-Avvio Motion
+_________________________31/12/2018 10:56:33_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 10:56:33- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 10:56:37- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 10:56:37- Stato Tunnel OK (chiuso)
+31/12/2018 10:56:37- Stato Teamviewer OK (spento)
+31/12/2018 10:56:37-Avvio Motion
+_________________________31/12/2018 16:15:32_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:15:32- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:15:36- Recupero stato richiesto
+Attivare Teamviewer : 1
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:15:36- Stato Tunnel OK (chiuso)
+31/12/2018 16:15:36-Avvio Teamviewer
+_________________________31/12/2018 16:15:32_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:15:32- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:15:36- Recupero stato richiesto
+Attivare Teamviewer : 1
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:15:36- Stato Tunnel OK (chiuso)
+31/12/2018 16:15:36-Avvio Teamviewer
+31/12/2018 16:15:37-Avvio Motion
+_________________________31/12/2018 16:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:30:01- Recupero stato del sistema
+Teamviewer attivato: true
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:30:05- Recupero stato richiesto
+Attivare Teamviewer : 1
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:30:05- Stato Tunnel OK (chiuso)
+31/12/2018 16:30:05- Stato Teamviewer OK (attivo)
+31/12/2018 16:30:05- Stato Motion OK (attivo)
+31/12/2018 16:30:05- Stato Dropbox OK (spento)
+_________________________31/12/2018 16:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:35:01- Recupero stato del sistema
+Teamviewer attivato: true
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:35:05- Recupero stato richiesto
+Attivare Teamviewer : 1
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:35:05- Stato Tunnel OK (chiuso)
+31/12/2018 16:35:05- Stato Teamviewer OK (attivo)
+31/12/2018 16:35:05- Stato Motion OK (attivo)
+31/12/2018 16:35:05- Stato Dropbox OK (spento)
+_________________________31/12/2018 16:37:38_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:37:38- Recupero stato del sistema
+Teamviewer attivato: true
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:37:42- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:37:42- Stato Tunnel OK (chiuso)
+31/12/2018 16:37:42- Disattivo Teamviewer
+31/12/2018 16:37:44- Disattivo Motion
+31/12/2018 16:37:44- Stato Dropbox OK (spento)
+31/12/2018 16:37:44- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 16:37:48_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________31/12/2018 16:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:25:01- Recupero stato del sistema
+Teamviewer attivato: true
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:25:05- Recupero stato richiesto
+Attivare Teamviewer : 1
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:25:05- Stato Tunnel OK (chiuso)
+31/12/2018 16:25:05- Stato Teamviewer OK (attivo)
+31/12/2018 16:25:05-Avvio Motion
+31/12/2018 16:37:46- Stato Dropbox OK (spento)
+31/12/2018 16:37:46- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 16:37:50_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________31/12/2018 16:38:31_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:38:31- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:38:35- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:38:35- Stato Tunnel OK (chiuso)
+31/12/2018 16:38:35- Stato Teamviewer OK (spento)
+31/12/2018 16:38:35- Stato Motion OK (spento)
+31/12/2018 16:38:35- Stato Dropbox OK (spento)
+_________________________31/12/2018 16:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:40:05- Stato Tunnel OK (chiuso)
+31/12/2018 16:40:05- Stato Teamviewer OK (spento)
+31/12/2018 16:40:05- Stato Motion OK (attivo)
+31/12/2018 16:40:05- Stato Dropbox OK (spento)
+_________________________31/12/2018 16:40:28_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:40:28- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:40:32- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:40:32- Stato Tunnel OK (chiuso)
+31/12/2018 16:40:32- Stato Teamviewer OK (spento)
+31/12/2018 16:40:32- Disattivo Motion
+31/12/2018 16:40:32- Stato Dropbox OK (spento)
+31/12/2018 16:40:32- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 16:40:36_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________31/12/2018 16:38:44_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:38:44- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:38:48- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:38:48- Stato Tunnel OK (chiuso)
+31/12/2018 16:38:48- Stato Teamviewer OK (spento)
+31/12/2018 16:38:48-Avvio Motion
+31/12/2018 16:43:31- Stato Dropbox OK (spento)
+31/12/2018 16:43:31- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 16:45:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:45:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:45:06- Stato Tunnel OK (chiuso)
+31/12/2018 16:45:06- Stato Teamviewer OK (spento)
+31/12/2018 16:45:06- Stato Motion OK (attivo)
+31/12/2018 16:45:06- Stato Dropbox OK (spento)
+_________________________31/12/2018 16:46:44_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:46:44- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:46:47- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:46:48- Stato Tunnel OK (chiuso)
+31/12/2018 16:46:48- Stato Teamviewer OK (spento)
+31/12/2018 16:46:48-Avvio Motion
+31/12/2018 16:46:48- Stato Dropbox OK (spento)
+31/12/2018 16:46:48- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 16:46:52_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________31/12/2018 16:49:20_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:49:20- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:49:24- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:49:25- Stato Tunnel OK (chiuso)
+31/12/2018 16:49:25- Stato Teamviewer OK (spento)
+31/12/2018 16:49:25-Avvio Motion
+31/12/2018 16:49:25- Stato Dropbox OK (spento)
+31/12/2018 16:49:25- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 16:49:29_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________31/12/2018 16:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:50:05- Stato Tunnel OK (chiuso)
+31/12/2018 16:50:05- Stato Teamviewer OK (spento)
+31/12/2018 16:50:05- Stato Motion OK (attivo)
+31/12/2018 16:50:05- Stato Dropbox OK (spento)
+_________________________31/12/2018 16:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 16:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 16:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 16:55:11- Stato Tunnel OK (chiuso)
+31/12/2018 16:55:11- Stato Teamviewer OK (spento)
+31/12/2018 16:55:11-Avvio Motion
+31/12/2018 16:55:11- Stato Dropbox OK (spento)
+31/12/2018 16:55:11- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 16:55:15_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________31/12/2018 17:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 17:00:05- Stato Tunnel OK (chiuso)
+31/12/2018 17:00:05- Stato Teamviewer OK (spento)
+31/12/2018 17:00:05- Stato Motion OK (attivo)
+31/12/2018 17:00:05- Stato Dropbox OK (spento)
+_________________________31/12/2018 17:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:05:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 17:05:07- Stato Tunnel OK (chiuso)
+31/12/2018 17:05:07- Stato Teamviewer OK (spento)
+31/12/2018 17:05:07- Stato Motion OK (attivo)
+31/12/2018 17:05:07- Stato Dropbox OK (spento)
+_________________________31/12/2018 17:06:13_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:06:13- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:06:18- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 17:06:18- Stato Tunnel OK (chiuso)
+31/12/2018 17:06:18- Stato Teamviewer OK (spento)
+31/12/2018 17:06:18-Avvio Motion
+31/12/2018 17:06:19- Stato Dropbox OK (spento)
+31/12/2018 17:06:19- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 17:06:24_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________31/12/2018 17:10:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:10:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:10:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 17:10:07- Stato Tunnel OK (chiuso)
+31/12/2018 17:10:07- Stato Teamviewer OK (spento)
+31/12/2018 17:10:07-Avvio Motion
+31/12/2018 17:10:07- Stato Dropbox OK (spento)
+31/12/2018 17:10:07- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 17:10:12_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________31/12/2018 17:12:43_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:12:43- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:12:48- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 17:12:48- Stato Tunnel OK (chiuso)
+31/12/2018 17:12:48- Stato Teamviewer OK (spento)
+31/12/2018 17:12:48- Disattivo Motion
+31/12/2018 17:12:48- Stato Dropbox OK (spento)
+31/12/2018 17:12:48- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________31/12/2018 17:12:54_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________31/12/2018 17:15:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:15:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:15:08- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 17:15:08- Stato Tunnel OK (chiuso)
+31/12/2018 17:15:08- Stato Teamviewer OK (spento)
+31/12/2018 17:15:08- Stato Motion OK (spento)
+31/12/2018 17:15:08- Stato Dropbox OK (spento)
+_________________________31/12/2018 17:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:20:07- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+31/12/2018 17:20:07- Stato Tunnel OK (chiuso)
+31/12/2018 17:20:07- Stato Teamviewer OK (spento)
+31/12/2018 17:20:07- Stato Motion OK (spento)
+31/12/2018 17:20:07- Stato Dropbox OK (spento)
+_________________________31/12/2018 17:25:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:25:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:25:08- Recupero stato richiesto
+_________________________31/12/2018 17:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:30:06- Recupero stato richiesto
+_________________________31/12/2018 17:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:35:06- Recupero stato richiesto
+_________________________31/12/2018 17:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:40:06- Recupero stato richiesto
+_________________________31/12/2018 17:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:45:06- Recupero stato richiesto
+_________________________31/12/2018 17:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:50:06- Recupero stato richiesto
+_________________________31/12/2018 17:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 17:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 17:55:06- Recupero stato richiesto
+_________________________31/12/2018 18:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:00:06- Recupero stato richiesto
+_________________________31/12/2018 18:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:05:06- Recupero stato richiesto
+_________________________31/12/2018 18:10:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:10:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:10:06- Recupero stato richiesto
+_________________________31/12/2018 18:15:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:15:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:15:06- Recupero stato richiesto
+_________________________31/12/2018 18:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:20:06- Recupero stato richiesto
+_________________________31/12/2018 18:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:25:06- Recupero stato richiesto
+_________________________31/12/2018 18:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:30:06- Recupero stato richiesto
+_________________________31/12/2018 18:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:35:06- Recupero stato richiesto
+_________________________31/12/2018 18:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:40:06- Recupero stato richiesto
+_________________________31/12/2018 18:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:45:06- Recupero stato richiesto
+_________________________31/12/2018 18:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:50:06- Recupero stato richiesto
+_________________________31/12/2018 18:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 18:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 18:55:06- Recupero stato richiesto
+_________________________31/12/2018 19:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:00:06- Recupero stato richiesto
+_________________________31/12/2018 19:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:05:06- Recupero stato richiesto
+_________________________31/12/2018 19:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:10:06- Recupero stato richiesto
+_________________________31/12/2018 19:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:15:06- Recupero stato richiesto
+_________________________31/12/2018 19:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:20:06- Recupero stato richiesto
+_________________________31/12/2018 19:25:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:25:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:25:06- Recupero stato richiesto
+_________________________31/12/2018 19:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:30:06- Recupero stato richiesto
+_________________________31/12/2018 19:35:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:35:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:35:06- Recupero stato richiesto
+_________________________31/12/2018 19:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:40:06- Recupero stato richiesto
+_________________________31/12/2018 19:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:45:06- Recupero stato richiesto
+_________________________31/12/2018 19:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:50:06- Recupero stato richiesto
+_________________________31/12/2018 19:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 19:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 19:55:06- Recupero stato richiesto
+_________________________31/12/2018 20:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:00:06- Recupero stato richiesto
+_________________________31/12/2018 20:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:05:06- Recupero stato richiesto
+_________________________31/12/2018 20:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:10:06- Recupero stato richiesto
+_________________________31/12/2018 20:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:15:06- Recupero stato richiesto
+_________________________31/12/2018 20:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:20:06- Recupero stato richiesto
+_________________________31/12/2018 20:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:25:06- Recupero stato richiesto
+_________________________31/12/2018 20:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:30:06- Recupero stato richiesto
+_________________________31/12/2018 20:35:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:35:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:35:06- Recupero stato richiesto
+_________________________31/12/2018 20:40:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:40:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:40:06- Recupero stato richiesto
+_________________________31/12/2018 20:45:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:45:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:45:07- Recupero stato richiesto
+_________________________31/12/2018 20:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:50:06- Recupero stato richiesto
+_________________________31/12/2018 20:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 20:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 20:55:06- Recupero stato richiesto
+_________________________31/12/2018 21:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:00:06- Recupero stato richiesto
+_________________________31/12/2018 21:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:05:06- Recupero stato richiesto
+_________________________31/12/2018 21:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:10:06- Recupero stato richiesto
+_________________________31/12/2018 21:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:15:06- Recupero stato richiesto
+_________________________31/12/2018 21:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:20:06- Recupero stato richiesto
+_________________________31/12/2018 21:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:25:06- Recupero stato richiesto
+_________________________31/12/2018 21:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:30:06- Recupero stato richiesto
+_________________________31/12/2018 21:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:35:06- Recupero stato richiesto
+_________________________31/12/2018 21:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:40:06- Recupero stato richiesto
+_________________________31/12/2018 21:45:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:45:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:45:06- Recupero stato richiesto
+_________________________31/12/2018 21:50:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:50:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:50:06- Recupero stato richiesto
+_________________________31/12/2018 21:55:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 21:55:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 21:55:07- Recupero stato richiesto
+_________________________31/12/2018 22:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:00:06- Recupero stato richiesto
+_________________________31/12/2018 22:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:05:06- Recupero stato richiesto
+_________________________31/12/2018 22:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:10:06- Recupero stato richiesto
+_________________________31/12/2018 22:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:15:06- Recupero stato richiesto
+_________________________31/12/2018 22:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:20:06- Recupero stato richiesto
+_________________________31/12/2018 22:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:25:06- Recupero stato richiesto
+_________________________31/12/2018 22:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:30:06- Recupero stato richiesto
+_________________________31/12/2018 22:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:35:06- Recupero stato richiesto
+_________________________31/12/2018 22:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:40:06- Recupero stato richiesto
+_________________________31/12/2018 22:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:45:06- Recupero stato richiesto
+_________________________31/12/2018 22:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:50:06- Recupero stato richiesto
+_________________________31/12/2018 22:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 22:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 22:55:06- Recupero stato richiesto
+_________________________31/12/2018 23:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:00:06- Recupero stato richiesto
+_________________________31/12/2018 23:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:05:06- Recupero stato richiesto
+_________________________31/12/2018 23:10:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:10:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:10:06- Recupero stato richiesto
+_________________________31/12/2018 23:15:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:15:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:15:06- Recupero stato richiesto
+_________________________31/12/2018 23:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:20:06- Recupero stato richiesto
+_________________________31/12/2018 23:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:25:06- Recupero stato richiesto
+_________________________31/12/2018 23:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:30:06- Recupero stato richiesto
+_________________________31/12/2018 23:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:35:06- Recupero stato richiesto
+_________________________31/12/2018 23:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:40:06- Recupero stato richiesto
+_________________________31/12/2018 23:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:45:06- Recupero stato richiesto
+_________________________31/12/2018 23:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:50:06- Recupero stato richiesto
+_________________________31/12/2018 23:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+31/12/2018 23:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+31/12/2018 23:55:06- Recupero stato richiesto
+_________________________01/01/2019 00:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:00:06- Recupero stato richiesto
+_________________________01/01/2019 00:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:05:06- Recupero stato richiesto
+_________________________01/01/2019 00:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:10:06- Recupero stato richiesto
+_________________________01/01/2019 00:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:15:06- Recupero stato richiesto
+_________________________01/01/2019 00:20:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:20:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:20:06- Recupero stato richiesto
+_________________________01/01/2019 00:25:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:25:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:25:06- Recupero stato richiesto
+_________________________01/01/2019 00:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:30:06- Recupero stato richiesto
+_________________________01/01/2019 00:35:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:35:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:35:07- Recupero stato richiesto
+_________________________01/01/2019 00:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:40:06- Recupero stato richiesto
+_________________________01/01/2019 00:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:45:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 00:45:07- Stato Tunnel OK (chiuso)
+01/01/2019 00:45:07- Stato Teamviewer OK (spento)
+01/01/2019 00:45:07-Avvio Motion
+01/01/2019 00:45:08- Stato Dropbox OK (spento)
+01/01/2019 00:45:08- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________01/01/2019 00:45:14_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________01/01/2019 00:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:50:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 00:50:06- Stato Tunnel OK (chiuso)
+01/01/2019 00:50:06- Stato Teamviewer OK (spento)
+01/01/2019 00:50:06- Stato Motion OK (attivo)
+01/01/2019 00:50:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 00:55:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 00:55:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 00:55:07- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 00:55:07- Stato Tunnel OK (chiuso)
+01/01/2019 00:55:07- Stato Teamviewer OK (spento)
+01/01/2019 00:55:07-Avvio Motion
+01/01/2019 00:55:07- Stato Dropbox OK (spento)
+01/01/2019 00:55:07- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________01/01/2019 00:55:12_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________01/01/2019 01:00:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 01:00:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 01:00:07- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 01:00:07- Stato Tunnel OK (chiuso)
+01/01/2019 01:00:07- Stato Teamviewer OK (spento)
+01/01/2019 01:00:07- Disattivo Motion
+01/01/2019 01:00:08- Stato Dropbox OK (spento)
+01/01/2019 01:00:08- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________01/01/2019 01:00:14_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________01/01/2019 01:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 01:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 01:05:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 01:05:07- Stato Tunnel OK (chiuso)
+01/01/2019 01:05:07- Stato Teamviewer OK (spento)
+01/01/2019 01:05:07- Stato Motion OK (spento)
+01/01/2019 01:05:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 01:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 01:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 01:10:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 01:10:06- Stato Tunnel OK (chiuso)
+01/01/2019 01:10:06- Stato Teamviewer OK (spento)
+01/01/2019 01:10:06- Stato Motion OK (spento)
+01/01/2019 01:10:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 01:15:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 01:15:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 01:15:08- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 01:15:09- Stato Tunnel OK (chiuso)
+01/01/2019 01:15:09- Stato Teamviewer OK (spento)
+01/01/2019 01:15:09- Stato Motion OK (spento)
+01/01/2019 01:15:09- Stato Dropbox OK (spento)
+_________________________01/01/2019 11:45:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 11:45:02- Recupero stato del sistema
+Teamviewer attivato: true
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 11:45:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 11:45:08- Stato Tunnel OK (chiuso)
+01/01/2019 11:45:08- Disattivo Teamviewer
+01/01/2019 11:45:09- Stato Motion OK (spento)
+01/01/2019 11:45:09- Stato Dropbox OK (spento)
+01/01/2019 11:45:09- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________01/01/2019 11:45:13_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________01/01/2019 11:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 11:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 11:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 11:50:05- Stato Tunnel OK (chiuso)
+01/01/2019 11:50:05- Stato Teamviewer OK (spento)
+01/01/2019 11:50:05- Stato Motion OK (spento)
+01/01/2019 11:50:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 11:55:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 11:55:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 11:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 11:55:07- Stato Tunnel OK (chiuso)
+01/01/2019 11:55:07- Stato Teamviewer OK (spento)
+01/01/2019 11:55:07- Stato Motion OK (spento)
+01/01/2019 11:55:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:00:07- Stato Tunnel OK (chiuso)
+01/01/2019 12:00:07- Stato Teamviewer OK (spento)
+01/01/2019 12:00:07- Stato Motion OK (spento)
+01/01/2019 12:00:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:05:06- Stato Tunnel OK (chiuso)
+01/01/2019 12:05:06- Stato Teamviewer OK (spento)
+01/01/2019 12:05:06- Stato Motion OK (spento)
+01/01/2019 12:05:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:10:07- Stato Tunnel OK (chiuso)
+01/01/2019 12:10:07- Stato Teamviewer OK (spento)
+01/01/2019 12:10:07- Stato Motion OK (spento)
+01/01/2019 12:10:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:15:11- Stato Tunnel OK (chiuso)
+01/01/2019 12:15:11- Stato Teamviewer OK (spento)
+01/01/2019 12:15:11- Stato Motion OK (spento)
+01/01/2019 12:15:11- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:20:08- Stato Tunnel OK (chiuso)
+01/01/2019 12:20:08- Stato Teamviewer OK (spento)
+01/01/2019 12:20:08- Stato Motion OK (spento)
+01/01/2019 12:20:08- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:25:10- Stato Tunnel OK (chiuso)
+01/01/2019 12:25:10- Stato Teamviewer OK (spento)
+01/01/2019 12:25:10- Stato Motion OK (spento)
+01/01/2019 12:25:10- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:30:05- Stato Tunnel OK (chiuso)
+01/01/2019 12:30:05- Stato Teamviewer OK (spento)
+01/01/2019 12:30:05- Stato Motion OK (spento)
+01/01/2019 12:30:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:35:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:35:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:35:11- Stato Tunnel OK (chiuso)
+01/01/2019 12:35:11- Stato Teamviewer OK (spento)
+01/01/2019 12:35:11- Stato Motion OK (spento)
+01/01/2019 12:35:11- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:40:07- Stato Tunnel OK (chiuso)
+01/01/2019 12:40:07- Stato Teamviewer OK (spento)
+01/01/2019 12:40:07- Stato Motion OK (spento)
+01/01/2019 12:40:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:45:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:45:05- Stato Tunnel OK (chiuso)
+01/01/2019 12:45:05- Stato Teamviewer OK (spento)
+01/01/2019 12:45:05- Stato Motion OK (spento)
+01/01/2019 12:45:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:50:06- Stato Tunnel OK (chiuso)
+01/01/2019 12:50:06- Stato Teamviewer OK (spento)
+01/01/2019 12:50:06- Stato Motion OK (spento)
+01/01/2019 12:50:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 12:55:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 12:55:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 12:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 12:55:07- Stato Tunnel OK (chiuso)
+01/01/2019 12:55:07- Stato Teamviewer OK (spento)
+01/01/2019 12:55:07- Stato Motion OK (spento)
+01/01/2019 12:55:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:00:06- Stato Tunnel OK (chiuso)
+01/01/2019 13:00:06- Stato Teamviewer OK (spento)
+01/01/2019 13:00:06- Stato Motion OK (spento)
+01/01/2019 13:00:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:05:14- Stato Tunnel OK (chiuso)
+01/01/2019 13:05:14- Stato Teamviewer OK (spento)
+01/01/2019 13:05:14- Stato Motion OK (spento)
+01/01/2019 13:05:14- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:10:07- Stato Tunnel OK (chiuso)
+01/01/2019 13:10:07- Stato Teamviewer OK (spento)
+01/01/2019 13:10:07- Stato Motion OK (spento)
+01/01/2019 13:10:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:15:06- Stato Tunnel OK (chiuso)
+01/01/2019 13:15:06- Stato Teamviewer OK (spento)
+01/01/2019 13:15:06- Stato Motion OK (spento)
+01/01/2019 13:15:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:20:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:20:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:20:06- Stato Tunnel OK (chiuso)
+01/01/2019 13:20:06- Stato Teamviewer OK (spento)
+01/01/2019 13:20:06- Stato Motion OK (spento)
+01/01/2019 13:20:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:25:05- Stato Tunnel OK (chiuso)
+01/01/2019 13:25:05- Stato Teamviewer OK (spento)
+01/01/2019 13:25:05- Stato Motion OK (spento)
+01/01/2019 13:25:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:30:07- Stato Tunnel OK (chiuso)
+01/01/2019 13:30:07- Stato Teamviewer OK (spento)
+01/01/2019 13:30:07- Stato Motion OK (spento)
+01/01/2019 13:30:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:35:06- Stato Tunnel OK (chiuso)
+01/01/2019 13:35:06- Stato Teamviewer OK (spento)
+01/01/2019 13:35:06- Stato Motion OK (spento)
+01/01/2019 13:35:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:40:06- Stato Tunnel OK (chiuso)
+01/01/2019 13:40:06- Stato Teamviewer OK (spento)
+01/01/2019 13:40:06- Stato Motion OK (spento)
+01/01/2019 13:40:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:45:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:45:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:45:06- Stato Tunnel OK (chiuso)
+01/01/2019 13:45:06- Stato Teamviewer OK (spento)
+01/01/2019 13:45:06- Stato Motion OK (spento)
+01/01/2019 13:45:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:50:07- Stato Tunnel OK (chiuso)
+01/01/2019 13:50:07- Stato Teamviewer OK (spento)
+01/01/2019 13:50:07- Stato Motion OK (spento)
+01/01/2019 13:50:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 13:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 13:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 13:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 13:55:06- Stato Tunnel OK (chiuso)
+01/01/2019 13:55:06- Stato Teamviewer OK (spento)
+01/01/2019 13:55:06- Stato Motion OK (spento)
+01/01/2019 13:55:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:00:05- Stato Tunnel OK (chiuso)
+01/01/2019 14:00:05- Stato Teamviewer OK (spento)
+01/01/2019 14:00:05-Avvio Motion
+01/01/2019 14:00:06- Stato Dropbox OK (spento)
+01/01/2019 14:00:06- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________01/01/2019 14:00:10_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________01/01/2019 14:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:05:05- Stato Tunnel OK (chiuso)
+01/01/2019 14:05:05- Stato Teamviewer OK (spento)
+01/01/2019 14:05:05- Stato Motion OK (attivo)
+01/01/2019 14:05:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:10:06- Stato Tunnel OK (chiuso)
+01/01/2019 14:10:06- Stato Teamviewer OK (spento)
+01/01/2019 14:10:06- Stato Motion OK (attivo)
+01/01/2019 14:10:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:15:10- Stato Tunnel OK (chiuso)
+01/01/2019 14:15:10- Stato Teamviewer OK (spento)
+01/01/2019 14:15:10- Stato Motion OK (attivo)
+01/01/2019 14:15:10- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:20:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:20:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:20:06- Stato Tunnel OK (chiuso)
+01/01/2019 14:20:06- Stato Teamviewer OK (spento)
+01/01/2019 14:20:06- Stato Motion OK (attivo)
+01/01/2019 14:20:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:25:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:25:05- Stato Tunnel OK (chiuso)
+01/01/2019 14:25:05- Stato Teamviewer OK (spento)
+01/01/2019 14:25:05- Stato Motion OK (attivo)
+01/01/2019 14:25:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:30:06- Stato Tunnel OK (chiuso)
+01/01/2019 14:30:06- Stato Teamviewer OK (spento)
+01/01/2019 14:30:06- Stato Motion OK (attivo)
+01/01/2019 14:30:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:35:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:35:14- Stato Tunnel OK (chiuso)
+01/01/2019 14:35:14- Stato Teamviewer OK (spento)
+01/01/2019 14:35:14- Stato Motion OK (attivo)
+01/01/2019 14:35:14- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:40:06- Stato Tunnel OK (chiuso)
+01/01/2019 14:40:06- Stato Teamviewer OK (spento)
+01/01/2019 14:40:06- Stato Motion OK (attivo)
+01/01/2019 14:40:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:45:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:45:05- Stato Tunnel OK (chiuso)
+01/01/2019 14:45:05- Stato Teamviewer OK (spento)
+01/01/2019 14:45:05- Stato Motion OK (attivo)
+01/01/2019 14:45:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:50:06- Stato Tunnel OK (chiuso)
+01/01/2019 14:50:06- Stato Teamviewer OK (spento)
+01/01/2019 14:50:06- Stato Motion OK (attivo)
+01/01/2019 14:50:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 14:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 14:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 14:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 14:55:06- Stato Tunnel OK (chiuso)
+01/01/2019 14:55:06- Stato Teamviewer OK (spento)
+01/01/2019 14:55:06- Stato Motion OK (attivo)
+01/01/2019 14:55:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:00:05- Stato Tunnel OK (chiuso)
+01/01/2019 15:00:05- Stato Teamviewer OK (spento)
+01/01/2019 15:00:05- Stato Motion OK (attivo)
+01/01/2019 15:00:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:05:06- Stato Tunnel OK (chiuso)
+01/01/2019 15:05:06- Stato Teamviewer OK (spento)
+01/01/2019 15:05:06- Stato Motion OK (attivo)
+01/01/2019 15:05:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:10:06- Stato Tunnel OK (chiuso)
+01/01/2019 15:10:06- Stato Teamviewer OK (spento)
+01/01/2019 15:10:06- Stato Motion OK (attivo)
+01/01/2019 15:10:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:15:06- Stato Tunnel OK (chiuso)
+01/01/2019 15:15:06- Stato Teamviewer OK (spento)
+01/01/2019 15:15:06- Stato Motion OK (attivo)
+01/01/2019 15:15:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:20:05- Stato Tunnel OK (chiuso)
+01/01/2019 15:20:05- Stato Teamviewer OK (spento)
+01/01/2019 15:20:05- Stato Motion OK (attivo)
+01/01/2019 15:20:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:25:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:25:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:25:07- Stato Tunnel OK (chiuso)
+01/01/2019 15:25:07- Stato Teamviewer OK (spento)
+01/01/2019 15:25:07- Stato Motion OK (attivo)
+01/01/2019 15:25:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:30:06- Stato Tunnel OK (chiuso)
+01/01/2019 15:30:06- Stato Teamviewer OK (spento)
+01/01/2019 15:30:06- Stato Motion OK (attivo)
+01/01/2019 15:30:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:35:05- Stato Tunnel OK (chiuso)
+01/01/2019 15:35:05- Stato Teamviewer OK (spento)
+01/01/2019 15:35:05- Stato Motion OK (attivo)
+01/01/2019 15:35:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:40:06- Stato Tunnel OK (chiuso)
+01/01/2019 15:40:06- Stato Teamviewer OK (spento)
+01/01/2019 15:40:06- Stato Motion OK (attivo)
+01/01/2019 15:40:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:45:07- Stato Tunnel OK (chiuso)
+01/01/2019 15:45:07- Stato Teamviewer OK (spento)
+01/01/2019 15:45:07- Stato Motion OK (attivo)
+01/01/2019 15:45:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:50:05- Stato Tunnel OK (chiuso)
+01/01/2019 15:50:05- Stato Teamviewer OK (spento)
+01/01/2019 15:50:05- Stato Motion OK (attivo)
+01/01/2019 15:50:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 15:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 15:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 15:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 15:55:14- Stato Tunnel OK (chiuso)
+01/01/2019 15:55:14- Stato Teamviewer OK (spento)
+01/01/2019 15:55:14- Stato Motion OK (attivo)
+01/01/2019 15:55:14- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:00:06- Stato Tunnel OK (chiuso)
+01/01/2019 16:00:06- Stato Teamviewer OK (spento)
+01/01/2019 16:00:06- Stato Motion OK (attivo)
+01/01/2019 16:00:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:05:06- Stato Tunnel OK (chiuso)
+01/01/2019 16:05:06- Stato Teamviewer OK (spento)
+01/01/2019 16:05:06- Stato Motion OK (attivo)
+01/01/2019 16:05:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:10:06- Stato Tunnel OK (chiuso)
+01/01/2019 16:10:06- Stato Teamviewer OK (spento)
+01/01/2019 16:10:06- Stato Motion OK (attivo)
+01/01/2019 16:10:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:15:05- Stato Tunnel OK (chiuso)
+01/01/2019 16:15:05- Stato Teamviewer OK (spento)
+01/01/2019 16:15:05- Stato Motion OK (attivo)
+01/01/2019 16:15:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:20:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:20:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:20:05- Stato Tunnel OK (chiuso)
+01/01/2019 16:20:05- Stato Teamviewer OK (spento)
+01/01/2019 16:20:05- Stato Motion OK (attivo)
+01/01/2019 16:20:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:25:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:25:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:25:07- Stato Tunnel OK (chiuso)
+01/01/2019 16:25:07- Stato Teamviewer OK (spento)
+01/01/2019 16:25:07- Stato Motion OK (attivo)
+01/01/2019 16:25:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:30:10- Stato Tunnel OK (chiuso)
+01/01/2019 16:30:10- Stato Teamviewer OK (spento)
+01/01/2019 16:30:10- Stato Motion OK (attivo)
+01/01/2019 16:30:10- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:35:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:35:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:35:06- Stato Tunnel OK (chiuso)
+01/01/2019 16:35:06- Stato Teamviewer OK (spento)
+01/01/2019 16:35:06- Stato Motion OK (attivo)
+01/01/2019 16:35:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:40:05- Stato Tunnel OK (chiuso)
+01/01/2019 16:40:05- Stato Teamviewer OK (spento)
+01/01/2019 16:40:05- Stato Motion OK (attivo)
+01/01/2019 16:40:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:45:06- Stato Tunnel OK (chiuso)
+01/01/2019 16:45:06- Stato Teamviewer OK (spento)
+01/01/2019 16:45:06- Stato Motion OK (attivo)
+01/01/2019 16:45:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:50:07- Stato Tunnel OK (chiuso)
+01/01/2019 16:50:07- Stato Teamviewer OK (spento)
+01/01/2019 16:50:07- Stato Motion OK (attivo)
+01/01/2019 16:50:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 16:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 16:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 16:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 16:55:06- Stato Tunnel OK (chiuso)
+01/01/2019 16:55:06- Stato Teamviewer OK (spento)
+01/01/2019 16:55:06- Stato Motion OK (attivo)
+01/01/2019 16:55:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:00:10- Stato Tunnel OK (chiuso)
+01/01/2019 17:00:10- Stato Teamviewer OK (spento)
+01/01/2019 17:00:10- Stato Motion OK (attivo)
+01/01/2019 17:00:10- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:05:07- Stato Tunnel OK (chiuso)
+01/01/2019 17:05:07- Stato Teamviewer OK (spento)
+01/01/2019 17:05:07- Stato Motion OK (attivo)
+01/01/2019 17:05:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:10:13- Stato Tunnel OK (chiuso)
+01/01/2019 17:10:13- Stato Teamviewer OK (spento)
+01/01/2019 17:10:13- Stato Motion OK (attivo)
+01/01/2019 17:10:13- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:15:05- Stato Tunnel OK (chiuso)
+01/01/2019 17:15:05- Stato Teamviewer OK (spento)
+01/01/2019 17:15:05- Stato Motion OK (attivo)
+01/01/2019 17:15:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:20:05- Stato Tunnel OK (chiuso)
+01/01/2019 17:20:05- Stato Teamviewer OK (spento)
+01/01/2019 17:20:05- Stato Motion OK (attivo)
+01/01/2019 17:20:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:25:06- Stato Tunnel OK (chiuso)
+01/01/2019 17:25:06- Stato Teamviewer OK (spento)
+01/01/2019 17:25:06- Stato Motion OK (attivo)
+01/01/2019 17:25:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:30:06- Stato Tunnel OK (chiuso)
+01/01/2019 17:30:06- Stato Teamviewer OK (spento)
+01/01/2019 17:30:06- Stato Motion OK (attivo)
+01/01/2019 17:30:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:35:05- Stato Tunnel OK (chiuso)
+01/01/2019 17:35:05- Stato Teamviewer OK (spento)
+01/01/2019 17:35:05- Stato Motion OK (attivo)
+01/01/2019 17:35:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:40:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:40:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:40:07- Stato Tunnel OK (chiuso)
+01/01/2019 17:40:07- Stato Teamviewer OK (spento)
+01/01/2019 17:40:07- Stato Motion OK (attivo)
+01/01/2019 17:40:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:45:06- Stato Tunnel OK (chiuso)
+01/01/2019 17:45:06- Stato Teamviewer OK (spento)
+01/01/2019 17:45:06- Stato Motion OK (attivo)
+01/01/2019 17:45:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:50:06- Stato Tunnel OK (chiuso)
+01/01/2019 17:50:06- Stato Teamviewer OK (spento)
+01/01/2019 17:50:06- Stato Motion OK (attivo)
+01/01/2019 17:50:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 17:55:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 17:55:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 17:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 17:55:08- Stato Tunnel OK (chiuso)
+01/01/2019 17:55:08- Stato Teamviewer OK (spento)
+01/01/2019 17:55:08- Stato Motion OK (attivo)
+01/01/2019 17:55:08- Stato Dropbox OK (spento)
+_________________________01/01/2019 18:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 18:00:06- Stato Tunnel OK (chiuso)
+01/01/2019 18:00:06- Stato Teamviewer OK (spento)
+01/01/2019 18:00:06- Stato Motion OK (attivo)
+01/01/2019 18:00:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 18:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 18:05:05- Stato Tunnel OK (chiuso)
+01/01/2019 18:05:05- Stato Teamviewer OK (spento)
+01/01/2019 18:05:05- Stato Motion OK (attivo)
+01/01/2019 18:05:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 18:10:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:10:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 18:10:07- Stato Tunnel OK (chiuso)
+01/01/2019 18:10:07- Stato Teamviewer OK (spento)
+01/01/2019 18:10:07- Stato Motion OK (attivo)
+01/01/2019 18:10:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 18:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 18:15:05- Stato Tunnel OK (chiuso)
+01/01/2019 18:15:05- Stato Teamviewer OK (spento)
+01/01/2019 18:15:05- Stato Motion OK (attivo)
+01/01/2019 18:15:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 18:20:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:20:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 18:20:07- Stato Tunnel OK (chiuso)
+01/01/2019 18:20:07- Stato Teamviewer OK (spento)
+01/01/2019 18:20:07- Stato Motion OK (attivo)
+01/01/2019 18:20:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 18:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 18:25:07- Stato Tunnel OK (chiuso)
+01/01/2019 18:25:07- Stato Teamviewer OK (spento)
+01/01/2019 18:25:07- Stato Motion OK (attivo)
+01/01/2019 18:25:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 18:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 18:30:07- Stato Tunnel OK (chiuso)
+01/01/2019 18:30:07- Stato Teamviewer OK (spento)
+01/01/2019 18:30:07- Stato Motion OK (attivo)
+01/01/2019 18:30:07- Stato Dropbox OK (spento)
+_________________________01/01/2019 18:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 1
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 18:35:09- Stato Tunnel OK (chiuso)
+01/01/2019 18:35:09- Stato Teamviewer OK (spento)
+01/01/2019 18:35:09- Stato Motion OK (attivo)
+01/01/2019 18:35:09- Stato Dropbox OK (spento)
+_________________________01/01/2019 18:40:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:40:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:40:05- Recupero stato richiesto
+_________________________01/01/2019 18:45:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:45:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: true
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:45:05- Recupero stato richiesto
+_________________________01/01/2019 18:50:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:50:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:50:07- Recupero stato richiesto
+_________________________01/01/2019 18:55:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 18:55:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 18:55:05- Recupero stato richiesto
+_________________________01/01/2019 19:00:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:00:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:00:05- Recupero stato richiesto
+_________________________01/01/2019 19:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:05:05- Recupero stato richiesto
+_________________________01/01/2019 19:10:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:10:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:10:05- Recupero stato richiesto
+_________________________01/01/2019 19:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:15:05- Recupero stato richiesto
+_________________________01/01/2019 19:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:20:05- Recupero stato richiesto
+_________________________01/01/2019 19:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:25:05- Recupero stato richiesto
+_________________________01/01/2019 19:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:30:05- Recupero stato richiesto
+_________________________01/01/2019 19:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:35:05- Recupero stato richiesto
+_________________________01/01/2019 19:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:40:05- Recupero stato richiesto
+_________________________01/01/2019 19:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:45:05- Recupero stato richiesto
+_________________________01/01/2019 19:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:50:05- Recupero stato richiesto
+_________________________01/01/2019 19:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 19:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 19:55:05- Recupero stato richiesto
+_________________________01/01/2019 20:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:00:05- Recupero stato richiesto
+_________________________01/01/2019 20:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:05:05- Recupero stato richiesto
+_________________________01/01/2019 20:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:10:05- Recupero stato richiesto
+_________________________01/01/2019 20:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:15:04- Recupero stato richiesto
+_________________________01/01/2019 20:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:20:04- Recupero stato richiesto
+_________________________01/01/2019 20:25:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:25:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:25:05- Recupero stato richiesto
+_________________________01/01/2019 20:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:30:05- Recupero stato richiesto
+_________________________01/01/2019 20:35:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:35:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:35:05- Recupero stato richiesto
+_________________________01/01/2019 20:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:40:05- Recupero stato richiesto
+_________________________01/01/2019 20:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:45:05- Recupero stato richiesto
+_________________________01/01/2019 20:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:50:05- Recupero stato richiesto
+_________________________01/01/2019 20:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 20:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 20:55:05- Recupero stato richiesto
+_________________________01/01/2019 21:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:00:05- Recupero stato richiesto
+_________________________01/01/2019 21:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:05:05- Recupero stato richiesto
+_________________________01/01/2019 21:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:10:05- Recupero stato richiesto
+_________________________01/01/2019 21:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:15:05- Recupero stato richiesto
+_________________________01/01/2019 21:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:20:05- Recupero stato richiesto
+_________________________01/01/2019 21:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:25:05- Recupero stato richiesto
+_________________________01/01/2019 21:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:30:05- Recupero stato richiesto
+_________________________01/01/2019 21:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:35:05- Recupero stato richiesto
+_________________________01/01/2019 21:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:40:05- Recupero stato richiesto
+_________________________01/01/2019 21:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:45:05- Recupero stato richiesto
+_________________________01/01/2019 21:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:50:04- Recupero stato richiesto
+_________________________01/01/2019 21:55:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 21:55:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 21:55:05- Recupero stato richiesto
+_________________________01/01/2019 22:00:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:00:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:00:05- Recupero stato richiesto
+_________________________01/01/2019 22:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:05:05- Recupero stato richiesto
+_________________________01/01/2019 22:10:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:10:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:10:05- Recupero stato richiesto
+_________________________01/01/2019 22:15:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:15:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 22:15:06- Stato Tunnel OK (chiuso)
+01/01/2019 22:15:06- Stato Teamviewer OK (spento)
+01/01/2019 22:15:06- Stato Motion OK (spento)
+01/01/2019 22:15:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 22:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 22:20:05- Stato Tunnel OK (chiuso)
+01/01/2019 22:20:05- Stato Teamviewer OK (spento)
+01/01/2019 22:20:05- Stato Motion OK (spento)
+01/01/2019 22:20:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 22:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 22:25:05- Stato Tunnel OK (chiuso)
+01/01/2019 22:25:05- Stato Teamviewer OK (spento)
+01/01/2019 22:25:05- Stato Motion OK (spento)
+01/01/2019 22:25:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 22:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 22:30:06- Stato Tunnel OK (chiuso)
+01/01/2019 22:30:06- Stato Teamviewer OK (spento)
+01/01/2019 22:30:06- Stato Motion OK (spento)
+01/01/2019 22:30:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 22:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 22:35:05- Stato Tunnel OK (chiuso)
+01/01/2019 22:35:05- Stato Teamviewer OK (spento)
+01/01/2019 22:35:05- Stato Motion OK (spento)
+01/01/2019 22:35:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 22:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 22:40:05- Stato Tunnel OK (chiuso)
+01/01/2019 22:40:05- Stato Teamviewer OK (spento)
+01/01/2019 22:40:05- Stato Motion OK (spento)
+01/01/2019 22:40:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 22:45:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:45:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 22:45:06- Stato Tunnel OK (chiuso)
+01/01/2019 22:45:06- Stato Teamviewer OK (spento)
+01/01/2019 22:45:06- Stato Motion OK (spento)
+01/01/2019 22:45:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 22:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 22:50:05- Stato Tunnel OK (chiuso)
+01/01/2019 22:50:05- Stato Teamviewer OK (spento)
+01/01/2019 22:50:05- Stato Motion OK (spento)
+01/01/2019 22:50:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 22:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 22:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 22:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 22:55:05- Stato Tunnel OK (chiuso)
+01/01/2019 22:55:05- Stato Teamviewer OK (spento)
+01/01/2019 22:55:05- Stato Motion OK (spento)
+01/01/2019 22:55:05- Stato Dropbox OK (spento)
+_________________________01/01/2019 23:00:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 23:00:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 23:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 23:00:06- Stato Tunnel OK (chiuso)
+01/01/2019 23:00:06- Stato Teamviewer OK (spento)
+01/01/2019 23:00:06- Stato Motion OK (spento)
+01/01/2019 23:00:06- Stato Dropbox OK (spento)
+_________________________01/01/2019 23:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+01/01/2019 23:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+01/01/2019 23:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+01/01/2019 23:05:05- Stato Tunnel OK (chiuso)
+01/01/2019 23:05:05- Stato Teamviewer OK (spento)
+01/01/2019 23:05:05- Stato Motion OK (spento)
+01/01/2019 23:05:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 11:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 11:45:01- Recupero stato del sistema
+Teamviewer attivato: true
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 11:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 11:45:06- Stato Tunnel OK (chiuso)
+02/01/2019 11:45:06- Disattivo Teamviewer
+02/01/2019 11:45:08- Stato Motion OK (spento)
+02/01/2019 11:45:08- Stato Dropbox OK (spento)
+02/01/2019 11:45:08- Ci sono stati @cambiamenti => Aggiorno lo stato
+_________________________02/01/2019 11:45:11_________________________
+FINE PROCEDURA
+______________________________________________________________________
+_________________________02/01/2019 11:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 11:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 11:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 11:50:06- Stato Tunnel OK (chiuso)
+02/01/2019 11:50:06- Stato Teamviewer OK (spento)
+02/01/2019 11:50:06- Stato Motion OK (spento)
+02/01/2019 11:50:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 11:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 11:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 11:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 11:55:05- Stato Tunnel OK (chiuso)
+02/01/2019 11:55:05- Stato Teamviewer OK (spento)
+02/01/2019 11:55:05- Stato Motion OK (spento)
+02/01/2019 11:55:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:00:06- Stato Tunnel OK (chiuso)
+02/01/2019 12:00:06- Stato Teamviewer OK (spento)
+02/01/2019 12:00:06- Stato Motion OK (spento)
+02/01/2019 12:00:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:05:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:05:05- Stato Tunnel OK (chiuso)
+02/01/2019 12:05:05- Stato Teamviewer OK (spento)
+02/01/2019 12:05:05- Stato Motion OK (spento)
+02/01/2019 12:05:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:10:05- Stato Tunnel OK (chiuso)
+02/01/2019 12:10:05- Stato Teamviewer OK (spento)
+02/01/2019 12:10:05- Stato Motion OK (spento)
+02/01/2019 12:10:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:15:05- Stato Tunnel OK (chiuso)
+02/01/2019 12:15:05- Stato Teamviewer OK (spento)
+02/01/2019 12:15:05- Stato Motion OK (spento)
+02/01/2019 12:15:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:20:09- Stato Tunnel OK (chiuso)
+02/01/2019 12:20:09- Stato Teamviewer OK (spento)
+02/01/2019 12:20:09- Stato Motion OK (spento)
+02/01/2019 12:20:09- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:25:07- Stato Tunnel OK (chiuso)
+02/01/2019 12:25:07- Stato Teamviewer OK (spento)
+02/01/2019 12:25:07- Stato Motion OK (spento)
+02/01/2019 12:25:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:30:10- Stato Tunnel OK (chiuso)
+02/01/2019 12:30:10- Stato Teamviewer OK (spento)
+02/01/2019 12:30:10- Stato Motion OK (spento)
+02/01/2019 12:30:10- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:35:05- Stato Tunnel OK (chiuso)
+02/01/2019 12:35:05- Stato Teamviewer OK (spento)
+02/01/2019 12:35:05- Stato Motion OK (spento)
+02/01/2019 12:35:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:40:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:40:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:40:13- Stato Tunnel OK (chiuso)
+02/01/2019 12:40:13- Stato Teamviewer OK (spento)
+02/01/2019 12:40:13- Stato Motion OK (spento)
+02/01/2019 12:40:13- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:45:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:45:05- Stato Tunnel OK (chiuso)
+02/01/2019 12:45:05- Stato Teamviewer OK (spento)
+02/01/2019 12:45:05- Stato Motion OK (spento)
+02/01/2019 12:45:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:50:05- Stato Tunnel OK (chiuso)
+02/01/2019 12:50:05- Stato Teamviewer OK (spento)
+02/01/2019 12:50:05- Stato Motion OK (spento)
+02/01/2019 12:50:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 12:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 12:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 12:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 12:55:11- Stato Tunnel OK (chiuso)
+02/01/2019 12:55:11- Stato Teamviewer OK (spento)
+02/01/2019 12:55:11- Stato Motion OK (spento)
+02/01/2019 12:55:11- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:00:06- Stato Tunnel OK (chiuso)
+02/01/2019 13:00:06- Stato Teamviewer OK (spento)
+02/01/2019 13:00:06- Stato Motion OK (spento)
+02/01/2019 13:00:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:05:06- Stato Tunnel OK (chiuso)
+02/01/2019 13:05:06- Stato Teamviewer OK (spento)
+02/01/2019 13:05:06- Stato Motion OK (spento)
+02/01/2019 13:05:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:10:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:10:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:10:06- Stato Tunnel OK (chiuso)
+02/01/2019 13:10:06- Stato Teamviewer OK (spento)
+02/01/2019 13:10:06- Stato Motion OK (spento)
+02/01/2019 13:10:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:15:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:15:07- Stato Tunnel OK (chiuso)
+02/01/2019 13:15:07- Stato Teamviewer OK (spento)
+02/01/2019 13:15:07- Stato Motion OK (spento)
+02/01/2019 13:15:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:20:07- Stato Tunnel OK (chiuso)
+02/01/2019 13:20:07- Stato Teamviewer OK (spento)
+02/01/2019 13:20:07- Stato Motion OK (spento)
+02/01/2019 13:20:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:25:05- Stato Tunnel OK (chiuso)
+02/01/2019 13:25:05- Stato Teamviewer OK (spento)
+02/01/2019 13:25:05- Stato Motion OK (spento)
+02/01/2019 13:25:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:30:05- Stato Tunnel OK (chiuso)
+02/01/2019 13:30:05- Stato Teamviewer OK (spento)
+02/01/2019 13:30:05- Stato Motion OK (spento)
+02/01/2019 13:30:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:35:07- Stato Tunnel OK (chiuso)
+02/01/2019 13:35:07- Stato Teamviewer OK (spento)
+02/01/2019 13:35:07- Stato Motion OK (spento)
+02/01/2019 13:35:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:40:05- Stato Tunnel OK (chiuso)
+02/01/2019 13:40:05- Stato Teamviewer OK (spento)
+02/01/2019 13:40:05- Stato Motion OK (spento)
+02/01/2019 13:40:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:45:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:45:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:45:06- Stato Tunnel OK (chiuso)
+02/01/2019 13:45:06- Stato Teamviewer OK (spento)
+02/01/2019 13:45:06- Stato Motion OK (spento)
+02/01/2019 13:45:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:50:07- Stato Tunnel OK (chiuso)
+02/01/2019 13:50:07- Stato Teamviewer OK (spento)
+02/01/2019 13:50:07- Stato Motion OK (spento)
+02/01/2019 13:50:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 13:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 13:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 13:55:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 13:55:06- Stato Tunnel OK (chiuso)
+02/01/2019 13:55:06- Stato Teamviewer OK (spento)
+02/01/2019 13:55:06- Stato Motion OK (spento)
+02/01/2019 13:55:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:00:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:00:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:00:07- Stato Tunnel OK (chiuso)
+02/01/2019 14:00:07- Stato Teamviewer OK (spento)
+02/01/2019 14:00:07- Stato Motion OK (spento)
+02/01/2019 14:00:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:05:07- Stato Tunnel OK (chiuso)
+02/01/2019 14:05:07- Stato Teamviewer OK (spento)
+02/01/2019 14:05:07- Stato Motion OK (spento)
+02/01/2019 14:05:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:10:05- Stato Tunnel OK (chiuso)
+02/01/2019 14:10:05- Stato Teamviewer OK (spento)
+02/01/2019 14:10:05- Stato Motion OK (spento)
+02/01/2019 14:10:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:15:06- Stato Tunnel OK (chiuso)
+02/01/2019 14:15:06- Stato Teamviewer OK (spento)
+02/01/2019 14:15:06- Stato Motion OK (spento)
+02/01/2019 14:15:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:20:06- Stato Tunnel OK (chiuso)
+02/01/2019 14:20:06- Stato Teamviewer OK (spento)
+02/01/2019 14:20:06- Stato Motion OK (spento)
+02/01/2019 14:20:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:25:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:25:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:25:07- Stato Tunnel OK (chiuso)
+02/01/2019 14:25:07- Stato Teamviewer OK (spento)
+02/01/2019 14:25:07- Stato Motion OK (spento)
+02/01/2019 14:25:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:30:06- Stato Tunnel OK (chiuso)
+02/01/2019 14:30:06- Stato Teamviewer OK (spento)
+02/01/2019 14:30:06- Stato Motion OK (spento)
+02/01/2019 14:30:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:35:05- Stato Tunnel OK (chiuso)
+02/01/2019 14:35:05- Stato Teamviewer OK (spento)
+02/01/2019 14:35:05- Stato Motion OK (spento)
+02/01/2019 14:35:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:40:06- Stato Tunnel OK (chiuso)
+02/01/2019 14:40:06- Stato Teamviewer OK (spento)
+02/01/2019 14:40:06- Stato Motion OK (spento)
+02/01/2019 14:40:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:45:05- Stato Tunnel OK (chiuso)
+02/01/2019 14:45:05- Stato Teamviewer OK (spento)
+02/01/2019 14:45:05- Stato Motion OK (spento)
+02/01/2019 14:45:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:50:06- Stato Tunnel OK (chiuso)
+02/01/2019 14:50:06- Stato Teamviewer OK (spento)
+02/01/2019 14:50:06- Stato Motion OK (spento)
+02/01/2019 14:50:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 14:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 14:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 14:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 14:55:06- Stato Tunnel OK (chiuso)
+02/01/2019 14:55:06- Stato Teamviewer OK (spento)
+02/01/2019 14:55:06- Stato Motion OK (spento)
+02/01/2019 14:55:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:00:06- Stato Tunnel OK (chiuso)
+02/01/2019 15:00:06- Stato Teamviewer OK (spento)
+02/01/2019 15:00:06- Stato Motion OK (spento)
+02/01/2019 15:00:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:05:06- Stato Tunnel OK (chiuso)
+02/01/2019 15:05:06- Stato Teamviewer OK (spento)
+02/01/2019 15:05:06- Stato Motion OK (spento)
+02/01/2019 15:05:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:10:06- Stato Tunnel OK (chiuso)
+02/01/2019 15:10:06- Stato Teamviewer OK (spento)
+02/01/2019 15:10:06- Stato Motion OK (spento)
+02/01/2019 15:10:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:15:06- Stato Tunnel OK (chiuso)
+02/01/2019 15:15:06- Stato Teamviewer OK (spento)
+02/01/2019 15:15:06- Stato Motion OK (spento)
+02/01/2019 15:15:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:20:05- Stato Tunnel OK (chiuso)
+02/01/2019 15:20:05- Stato Teamviewer OK (spento)
+02/01/2019 15:20:05- Stato Motion OK (spento)
+02/01/2019 15:20:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:25:06- Stato Tunnel OK (chiuso)
+02/01/2019 15:25:06- Stato Teamviewer OK (spento)
+02/01/2019 15:25:06- Stato Motion OK (spento)
+02/01/2019 15:25:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:30:05- Stato Tunnel OK (chiuso)
+02/01/2019 15:30:05- Stato Teamviewer OK (spento)
+02/01/2019 15:30:05- Stato Motion OK (spento)
+02/01/2019 15:30:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:35:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:35:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:35:06- Stato Tunnel OK (chiuso)
+02/01/2019 15:35:06- Stato Teamviewer OK (spento)
+02/01/2019 15:35:06- Stato Motion OK (spento)
+02/01/2019 15:35:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:40:06- Stato Tunnel OK (chiuso)
+02/01/2019 15:40:06- Stato Teamviewer OK (spento)
+02/01/2019 15:40:06- Stato Motion OK (spento)
+02/01/2019 15:40:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:45:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:45:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:45:06- Stato Tunnel OK (chiuso)
+02/01/2019 15:45:06- Stato Teamviewer OK (spento)
+02/01/2019 15:45:06- Stato Motion OK (spento)
+02/01/2019 15:45:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:50:04- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:50:10- Stato Tunnel OK (chiuso)
+02/01/2019 15:50:10- Stato Teamviewer OK (spento)
+02/01/2019 15:50:10- Stato Motion OK (spento)
+02/01/2019 15:50:10- Stato Dropbox OK (spento)
+_________________________02/01/2019 15:55:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 15:55:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 15:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 15:55:06- Stato Tunnel OK (chiuso)
+02/01/2019 15:55:06- Stato Teamviewer OK (spento)
+02/01/2019 15:55:06- Stato Motion OK (spento)
+02/01/2019 15:55:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:00:05- Stato Tunnel OK (chiuso)
+02/01/2019 16:00:05- Stato Teamviewer OK (spento)
+02/01/2019 16:00:05- Stato Motion OK (spento)
+02/01/2019 16:00:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:05:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:05:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:05:07- Stato Tunnel OK (chiuso)
+02/01/2019 16:05:07- Stato Teamviewer OK (spento)
+02/01/2019 16:05:07- Stato Motion OK (spento)
+02/01/2019 16:05:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:10:05- Stato Tunnel OK (chiuso)
+02/01/2019 16:10:05- Stato Teamviewer OK (spento)
+02/01/2019 16:10:05- Stato Motion OK (spento)
+02/01/2019 16:10:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:15:05- Stato Tunnel OK (chiuso)
+02/01/2019 16:15:05- Stato Teamviewer OK (spento)
+02/01/2019 16:15:05- Stato Motion OK (spento)
+02/01/2019 16:15:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:20:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:20:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:20:07- Stato Tunnel OK (chiuso)
+02/01/2019 16:20:07- Stato Teamviewer OK (spento)
+02/01/2019 16:20:07- Stato Motion OK (spento)
+02/01/2019 16:20:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:25:06- Stato Tunnel OK (chiuso)
+02/01/2019 16:25:06- Stato Teamviewer OK (spento)
+02/01/2019 16:25:06- Stato Motion OK (spento)
+02/01/2019 16:25:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:30:06- Stato Tunnel OK (chiuso)
+02/01/2019 16:30:06- Stato Teamviewer OK (spento)
+02/01/2019 16:30:06- Stato Motion OK (spento)
+02/01/2019 16:30:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:35:06- Stato Tunnel OK (chiuso)
+02/01/2019 16:35:06- Stato Teamviewer OK (spento)
+02/01/2019 16:35:06- Stato Motion OK (spento)
+02/01/2019 16:35:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:40:07- Stato Tunnel OK (chiuso)
+02/01/2019 16:40:07- Stato Teamviewer OK (spento)
+02/01/2019 16:40:07- Stato Motion OK (spento)
+02/01/2019 16:40:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:45:05- Stato Tunnel OK (chiuso)
+02/01/2019 16:45:05- Stato Teamviewer OK (spento)
+02/01/2019 16:45:05- Stato Motion OK (spento)
+02/01/2019 16:45:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:50:06- Stato Tunnel OK (chiuso)
+02/01/2019 16:50:06- Stato Teamviewer OK (spento)
+02/01/2019 16:50:06- Stato Motion OK (spento)
+02/01/2019 16:50:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 16:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 16:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 16:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 16:55:13- Stato Tunnel OK (chiuso)
+02/01/2019 16:55:13- Stato Teamviewer OK (spento)
+02/01/2019 16:55:13- Stato Motion OK (spento)
+02/01/2019 16:55:13- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:00:07- Stato Tunnel OK (chiuso)
+02/01/2019 17:00:07- Stato Teamviewer OK (spento)
+02/01/2019 17:00:07- Stato Motion OK (spento)
+02/01/2019 17:00:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:05:05- Stato Tunnel OK (chiuso)
+02/01/2019 17:05:05- Stato Teamviewer OK (spento)
+02/01/2019 17:05:05- Stato Motion OK (spento)
+02/01/2019 17:05:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:10:06- Stato Tunnel OK (chiuso)
+02/01/2019 17:10:06- Stato Teamviewer OK (spento)
+02/01/2019 17:10:06- Stato Motion OK (spento)
+02/01/2019 17:10:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:15:06- Stato Tunnel OK (chiuso)
+02/01/2019 17:15:06- Stato Teamviewer OK (spento)
+02/01/2019 17:15:06- Stato Motion OK (spento)
+02/01/2019 17:15:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:20:05- Stato Tunnel OK (chiuso)
+02/01/2019 17:20:05- Stato Teamviewer OK (spento)
+02/01/2019 17:20:05- Stato Motion OK (spento)
+02/01/2019 17:20:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:25:07- Stato Tunnel OK (chiuso)
+02/01/2019 17:25:07- Stato Teamviewer OK (spento)
+02/01/2019 17:25:07- Stato Motion OK (spento)
+02/01/2019 17:25:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:30:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:30:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:30:06- Stato Tunnel OK (chiuso)
+02/01/2019 17:30:06- Stato Teamviewer OK (spento)
+02/01/2019 17:30:06- Stato Motion OK (spento)
+02/01/2019 17:30:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:35:08- Stato Tunnel OK (chiuso)
+02/01/2019 17:35:08- Stato Teamviewer OK (spento)
+02/01/2019 17:35:08- Stato Motion OK (spento)
+02/01/2019 17:35:08- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:40:06- Stato Tunnel OK (chiuso)
+02/01/2019 17:40:06- Stato Teamviewer OK (spento)
+02/01/2019 17:40:06- Stato Motion OK (spento)
+02/01/2019 17:40:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:45:05- Stato Tunnel OK (chiuso)
+02/01/2019 17:45:05- Stato Teamviewer OK (spento)
+02/01/2019 17:45:05- Stato Motion OK (spento)
+02/01/2019 17:45:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:50:05- Stato Tunnel OK (chiuso)
+02/01/2019 17:50:05- Stato Teamviewer OK (spento)
+02/01/2019 17:50:05- Stato Motion OK (spento)
+02/01/2019 17:50:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 17:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 17:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 17:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 17:55:07- Stato Tunnel OK (chiuso)
+02/01/2019 17:55:07- Stato Teamviewer OK (spento)
+02/01/2019 17:55:07- Stato Motion OK (spento)
+02/01/2019 17:55:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:00:06- Stato Tunnel OK (chiuso)
+02/01/2019 18:00:06- Stato Teamviewer OK (spento)
+02/01/2019 18:00:06- Stato Motion OK (spento)
+02/01/2019 18:00:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:05:06- Stato Tunnel OK (chiuso)
+02/01/2019 18:05:06- Stato Teamviewer OK (spento)
+02/01/2019 18:05:06- Stato Motion OK (spento)
+02/01/2019 18:05:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:10:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:10:07- Stato Tunnel OK (chiuso)
+02/01/2019 18:10:07- Stato Teamviewer OK (spento)
+02/01/2019 18:10:07- Stato Motion OK (spento)
+02/01/2019 18:10:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:15:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:15:05- Stato Tunnel OK (chiuso)
+02/01/2019 18:15:05- Stato Teamviewer OK (spento)
+02/01/2019 18:15:05- Stato Motion OK (spento)
+02/01/2019 18:15:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:20:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:20:12- Stato Tunnel OK (chiuso)
+02/01/2019 18:20:12- Stato Teamviewer OK (spento)
+02/01/2019 18:20:12- Stato Motion OK (spento)
+02/01/2019 18:20:12- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:25:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:25:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:25:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:25:06- Stato Tunnel OK (chiuso)
+02/01/2019 18:25:06- Stato Teamviewer OK (spento)
+02/01/2019 18:25:06- Stato Motion OK (spento)
+02/01/2019 18:25:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:30:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:30:07- Stato Tunnel OK (chiuso)
+02/01/2019 18:30:07- Stato Teamviewer OK (spento)
+02/01/2019 18:30:07- Stato Motion OK (spento)
+02/01/2019 18:30:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:35:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:35:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:35:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:35:07- Stato Tunnel OK (chiuso)
+02/01/2019 18:35:07- Stato Teamviewer OK (spento)
+02/01/2019 18:35:07- Stato Motion OK (spento)
+02/01/2019 18:35:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:40:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:40:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:40:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:40:06- Stato Tunnel OK (chiuso)
+02/01/2019 18:40:06- Stato Teamviewer OK (spento)
+02/01/2019 18:40:06- Stato Motion OK (spento)
+02/01/2019 18:40:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:45:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:45:05- Stato Tunnel OK (chiuso)
+02/01/2019 18:45:05- Stato Teamviewer OK (spento)
+02/01/2019 18:45:05- Stato Motion OK (spento)
+02/01/2019 18:45:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:50:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:50:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:50:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:50:05- Stato Tunnel OK (chiuso)
+02/01/2019 18:50:05- Stato Teamviewer OK (spento)
+02/01/2019 18:50:05- Stato Motion OK (spento)
+02/01/2019 18:50:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 18:55:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 18:55:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 18:55:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 18:55:11- Stato Tunnel OK (chiuso)
+02/01/2019 18:55:11- Stato Teamviewer OK (spento)
+02/01/2019 18:55:11- Stato Motion OK (spento)
+02/01/2019 18:55:11- Stato Dropbox OK (spento)
+_________________________02/01/2019 19:00:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:00:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:00:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 19:00:09- Stato Tunnel OK (chiuso)
+02/01/2019 19:00:09- Stato Teamviewer OK (spento)
+02/01/2019 19:00:09- Stato Motion OK (spento)
+02/01/2019 19:00:09- Stato Dropbox OK (spento)
+_________________________02/01/2019 19:05:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:05:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:05:05- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 19:05:05- Stato Tunnel OK (chiuso)
+02/01/2019 19:05:05- Stato Teamviewer OK (spento)
+02/01/2019 19:05:05- Stato Motion OK (spento)
+02/01/2019 19:05:05- Stato Dropbox OK (spento)
+_________________________02/01/2019 19:10:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:10:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:10:05- Recupero stato richiesto
+_________________________02/01/2019 19:15:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:15:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:15:05- Recupero stato richiesto
+_________________________02/01/2019 19:20:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:20:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:20:05- Recupero stato richiesto
+_________________________02/01/2019 19:25:04_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:25:04- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:25:13- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 19:25:14- Stato Tunnel OK (chiuso)
+02/01/2019 19:25:14- Stato Teamviewer OK (spento)
+02/01/2019 19:25:14- Stato Motion OK (spento)
+02/01/2019 19:25:14- Stato Dropbox OK (spento)
+_________________________02/01/2019 19:30:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:30:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:30:07- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 19:30:08- Stato Tunnel OK (chiuso)
+02/01/2019 19:30:08- Stato Teamviewer OK (spento)
+02/01/2019 19:30:08- Stato Motion OK (spento)
+02/01/2019 19:30:08- Stato Dropbox OK (spento)
+_________________________02/01/2019 19:35:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:35:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:35:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 19:35:06- Stato Tunnel OK (chiuso)
+02/01/2019 19:35:06- Stato Teamviewer OK (spento)
+02/01/2019 19:35:06- Stato Motion OK (spento)
+02/01/2019 19:35:06- Stato Dropbox OK (spento)
+_________________________02/01/2019 19:40:02_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:40:02- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:40:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 19:40:07- Stato Tunnel OK (chiuso)
+02/01/2019 19:40:07- Stato Teamviewer OK (spento)
+02/01/2019 19:40:07- Stato Motion OK (spento)
+02/01/2019 19:40:07- Stato Dropbox OK (spento)
+_________________________02/01/2019 19:45:01_________________________
+AVVIO PROCEDURA
+______________________________________________________________________
+02/01/2019 19:45:01- Recupero stato del sistema
+Teamviewer attivato: false
+Motion attivato: false
+Dropbox attivato: 0
+Tunnel aperto: false
+02/01/2019 19:45:06- Recupero stato richiesto
+Attivare Teamviewer : 0
+Attivare Motion: 0
+Attivare Dropbox: 0
+Aprire il Tunnel: 0
+02/01/2019 19:45:06- Stato Tunnel OK (chiuso)
+02/01/2019 19:45:06- Stato Teamviewer OK (spento)
+02/01/2019 19:45:06- Stato Motion OK (spento)
+02/01/2019 19:45:06- Stato Dropbox OK (spento)
