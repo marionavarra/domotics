@@ -1,11 +1,11 @@
 #!/usr/bin/ruby
 require 'net/http'
-@log = File.open("/opt/script/azioni.log","a")
+@log = File.open("/home/mario/Documenti/script/azioni.log","a")
 @cambiamenti = false
 @log.puts "_________________________"+Time.now.strftime("%d/%m/%Y %H:%M:%S") +"_________________________"
 @log.puts "AVVIO PROCEDURA"
 @log.puts "______________________________________________________________________"
-@access = "http://www.pdpiedimonte.it/s/s.php"
+@access = "http://marionavarra.hostinggratis.it/s/s.php"
 
 
 def stato_teamviewer
@@ -51,10 +51,19 @@ def get_stato_richiesto stato
   url = @access	+ "?tunnel_aperto=" + stato[:tunnel_aperto].to_s + "&teamviewer_attivato=" + stato[:teamviewer_attivato].to_s + "&stato_mem=" +stato[:stato_mem].to_s  + "&stato_cpu=" + stato[:stato_cpu].to_s  + "&stato_power=" + stato[:stato_power].to_s + "&stato_temp=" + stato[:stato_temp].to_s + "&motion_attivato=" + stato[:motion_attivato].to_s + "&stato_dropbox=" + stato[:dropbox_attivato].to_s 
 p url
   url = url.gsub(/\n/," ")
-p url
+#p url
   uri = URI(url)
-  string_action = Net::HTTP.get(uri)
+  req = Net::HTTP::Get.new(url)
+  req.basic_auth 'mario', 'stava'
+  #p uri.hostname
+  res = Net::HTTP.start(uri.hostname, uri.port) {|http|
+  http.request(req)
+}
+  #p res.body
+  string_action = res.body
+#  string_action = Net::HTTP.get(uri)
   p  string_action
+  p ""
   apri_tunnel = string_action.split(",")[0].to_i
   attiva_teamviewer = string_action.split(",")[1].to_i
   attiva_motion = string_action.split(",")[2].to_i

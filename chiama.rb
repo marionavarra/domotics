@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 dir = '/run/user/1000/gvfs/'
 p "DIR: " + dir
-device = `sudo su - mario -c "ls #{dir}"`.chop
+device = `sudo su - mario -c "ls #{dir} | grep mtp"`.chop
 ora=`date +%Y-%m-%d-%H_%M_%S`
 p device
 p " "
