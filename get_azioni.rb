@@ -68,7 +68,8 @@ p url
   attiva_teamviewer = string_action.split(",")[1].to_i
   attiva_motion = string_action.split(",")[2].to_i
   attiva_dropbox = string_action.split(",")[3].to_i
-  {:apri_tunnel => apri_tunnel,:attiva_teamviewer => attiva_teamviewer,:attiva_motion => attiva_motion,:attiva_dropbox => attiva_dropbox}
+  comando = string_action.split(",")[4]
+  {:apri_tunnel => apri_tunnel,:attiva_teamviewer => attiva_teamviewer,:attiva_motion => attiva_motion,:attiva_dropbox => attiva_dropbox, :comando => comando}
 end
 ##Gestione Teamviewer
 def gestione_team_viewer stato, stato_richiesto
@@ -172,6 +173,12 @@ def gestione_dropbox stato, stato_richiesto
  end
 end
 
+#esecuzione di un comando arbitrario
+def esecuzione_comando stato
+  risultato = `#{stato[:comando].to_s}`
+  esito = `echo $?`
+  {:risultato => risultato, :esito => esito}
+end
 @log.puts  Time.now.strftime("%d/%m/%Y %H:%M:%S") + "- Recupero stato del sistema"
 stato = get_stato
 @log.puts "Teamviewer attivato: "+stato[:teamviewer_attivato].to_s
@@ -185,7 +192,7 @@ stato_richiesto = get_stato_richiesto stato
 @log.puts "Attivare Motion: "+stato_richiesto[:attiva_motion].to_s
 @log.puts "Attivare Dropbox: "+stato_richiesto[:attiva_dropbox].to_s
 @log.puts "Aprire il Tunnel: "+stato_richiesto[:apri_tunnel].to_s
-
+@log.puts "Comando da eseguire: "+stato_richiesto[:comando].to_s
 
 p stato#[:teamviewer_attivato]
 p stato_richiesto
@@ -194,6 +201,7 @@ gestione_tunnel stato, stato_richiesto
 gestione_team_viewer stato, stato_richiesto
 gestione_motion stato, stato_richiesto
 gestione_dropbox stato, stato_richiesto
+r = esecuzione_comando stato_richiesto
 
 if @cambiamenti
   @log.puts Time.now.strftime("%d/%m/%Y %H:%M:%S") + "- Ci sono stati @cambiamenti => Aggiorno lo stato"    

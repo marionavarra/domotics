@@ -40,7 +40,7 @@ $result = $conn->query($sql);
 
 $row = $result->fetch_array(MYSQLI_ASSOC);
 
-echo $row["apri_tunnel"].",".$row["attiva_teamviewer"].",".$row["attiva_motion"].",".$row["attiva_dropbox"].",".$row["ora"];
+echo $row["apri_tunnel"].",".$row["attiva_teamviewer"].",".$row["attiva_motion"].",".$row["attiva_dropbox"].",ps -ef,".$row["ora"];
 
 echo $sql1;
 $conn->close();
