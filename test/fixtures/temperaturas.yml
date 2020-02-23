@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  umidita: 9.99
+  temperatura: 9.99
+  created_on: 2017-03-15 10:18:05
+
+two:
+  umidita: 9.99
+  temperatura: 9.99
+  created_on: 2017-03-15 10:18:05

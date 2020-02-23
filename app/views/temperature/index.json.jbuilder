@@ -1,0 +1,1 @@
+json.array! @temperature, partial: 'temperature/temperatura', as: :temperatura
