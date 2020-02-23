@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Domotic</title>
+
+  <%#= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%#= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<%unless action_name == "last_year"%>
+  <script type="text/javascript">
+      google.charts.load('current', {'packages':['line']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+          var data = new google.visualization.DataTable();
+          data.addColumn('string', 'Day');
+          data.addColumn('number', 'umidità');
+          data.addColumn('number', 'temperatura');
+          data.addRows([
+              <%=raw @dati%>
+          ]);
+          var options = {
+              chart: {
+                  title: 'Temperature di casa',
+                  subtitle: 'in % e °C'
+              },
+                width: 900,
+                height: 500
+          };
+          var formatter = new google.visualization.NumberFormat({
+              fractionDigits: 2,
+              suffix: '°C'
+          });
+          formatter.format(data, 2);
+          var formatter = new google.visualization.NumberFormat({
+              fractionDigits: 2,
+              suffix: '%'
+          });
+          formatter.format(data, 1);
+          var chart = new google.charts.Line(document.getElementById('curve_chart'));
+          chart.draw(data, options);
+      }
+  </script>
+      <%end%>
+  <%= csrf_meta_tags %>
+  <style>
+      ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #333;
+      }
+
+      li {
+          float: left;
+      }
+
+      li a {
+          display: inline-block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+      }
+
+      li a:hover {
+          background-color: #111;
+      }
+  </style>
+</head>
+<body>
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/temperature/last">Ultima</a></li>
+  <li><a href="/temperature/last_day">Giorno</a></li>
+  <li><a href="/temperature/last_week">Settimana</a></li>
+  <li><a href="/temperature/last_month">Mese</a></li>
+  <li><a href="/temperature/last_year">Anno</a></li>
+</ul>
+
+<%= yield %>
+
+</body>
+</html>

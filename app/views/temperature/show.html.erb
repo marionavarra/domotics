@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Orario:</strong>
+  <%= I18n.localize(@temperatura.orario, format: '%a %d %b %H:%M') %>
+</p>
+
+<p>
+  <strong>Umidita:</strong>
+  <%= @temperatura.umidita %>%
+</p>
+
+<p>
+  <strong>Temperatura:</strong>
+  <%= @temperatura.temperatura %>°
+</p>
+
+<p>                                                                                                                      
+  <strong>Temperatura CPU:</strong>                                                                                    
+  <%= @cputemp.strip%>°                                                                                        
+</p>                                                                                                                     
+
+
+<p>                                                              
+  <strong>Motion a Piedimonte:</strong>                              
+  <%= @motion%>
+
+</p>
+
+
